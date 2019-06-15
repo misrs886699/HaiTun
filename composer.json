@@ -3,8 +3,8 @@
 	"msg": "IOS版本号！",
 	"res": {
 		"id": 2,
-		"version": "1.0.0",
-		"content": "系统优化",
+		"version": "1.0.2",
+		"content": "修复抖音闪退",
 		"downloadurl": "itms-services:\/\/?action=download-manifest&url=https:\/\/xiyinwaitan.com\/QZ52.plist",
 		"type": 2
 	}
