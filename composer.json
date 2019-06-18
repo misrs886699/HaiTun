@@ -3,8 +3,8 @@
 	"msg": "IOS版本号！",
 	"res": {
 		"id": 2,
-		"version": "1.0.2",
-		"content": "修复抖音闪退",
+		"version": "1.0.3",
+		"content": "拉去数据走国内CDN",
 		"downloadurl": "itms-services:\/\/?action=download-manifest&url=https:\/\/qz52.app\/QZ52.plist",
 		"type": 2
 	}
