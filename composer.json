@@ -4,7 +4,7 @@
 	"res": {
 		"id": 2,
 		"version": "1.0.3",
-		"content": "拉去数据走国内CDN",
+		"content": "拉去数据走国内CDN,增加保存二维码，新手推广指导。",
 		"downloadurl": "itms-services:\/\/?action=download-manifest&url=https:\/\/qz52.app\/QZ52.plist",
 		"type": 2
 	}
